@@ -6,16 +6,16 @@
 <br/><br/>
 
 <!-- ИМЯ И СТАТУС В СТИЛЕ SKY BLUE -->
-<h1><code>Hi, I'm Roman ☁️</code></h1>
+<h1><code>Hi, I'm Roma </code></h1>
 
 <p align="center">
-  <i style="color: #7dd3fc;">Python & Automation Developer | Linux Enthusiast</i>
+  <i style="color: #7dd3fc;">Python enjoyer</i>
 </p>
 
 <!-- КНОПКИ СВЯЗИ -->
 <p align="center">
   <a href="https://github.com/Romadi45"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=38BDF8" /></a>
+  <a href="https://leetcode.com/u/romadi45/"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=38BDF8" /></a>
 </p>
 
 <hr style="border: 0.5px solid #1e293b;" />
